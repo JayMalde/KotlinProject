@@ -1,4 +1,4 @@
-#Quiz Application
+# Quiz Application
 It is a simple quiz application which asks questions based on difficulty and stores the highscore .
 Features : -
 * It Does not get reseted when the user changes the orientation.
@@ -10,7 +10,7 @@ Features : -
 
 Screenshots With Explaination Are In The Docx File
 
-#Concepts Implemented In This Application are : -
+# Concepts Implemented In This Application are : -
 * Object Oriented Paradigm and MVC Architectural Deign in Kotlin 
 * Relative Layout
 * SQLite Database Implementation
